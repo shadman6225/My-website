@@ -1,157 +1,232 @@
 # My-website
  A modern, responsive personal portfolio showcasing expertise in AI, Machine Learning, Full-Stack Web Development, Embedded Systems, and Software Engineering. Features an interactive UI, 3D animations, project showcase, research highlights, and a professional contact section, built with HTML, CSS, and JavaScript.
- ````markdown
-<div align="center">
+ <div align="center">
 
-# ⚡ Beyond a Portfolio
+# Hi 👋, I'm Shadman Shakeeb Oankit
 
-### An immersive digital experience crafted with code, creativity, and curiosity.
+### AI & Machine Learning Engineer • Full-Stack Developer • Embedded Systems Enthusiast
 
-<p align="center">
-A futuristic portfolio that blends <b>Artificial Intelligence</b>, <b>Software Engineering</b>, and <b>Modern Web Design</b> into one seamless experience.
+<img src="YOUR_PORTFOLIO_SCREENSHOT.png" width="100%" alt="Portfolio Banner"/>
+
+<p>
+Building intelligent systems, modern web applications, and real-world software solutions.
 </p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Responsive-✔-00C853?style=for-the-badge">
-<img src="https://img.shields.io/badge/Open%20Source-❤-ff4b4b?style=for-the-badge">
+<p>
+<a href="https://github.com/shadman-shakeb">
+<img src="https://img.shields.io/github/followers/shadman-shakeb?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/shadman-shakeb?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-View-blue?style=for-the-badge"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-# ✨ Why This Portfolio?
+# 👨‍💻 About Me
 
-Most portfolios simply list projects.
+I'm a final-year Computer Science & Engineering student passionate about transforming ideas into practical software.
 
-This one tells a story.
+My interests span across:
 
-From the first animation to the final contact section, every component was designed to create an engaging experience that reflects who I am as a developer—not just what I build.
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁 Computer Vision
+- 🌐 Full Stack Web Development
+- ⚡ Embedded Systems & IoT
+- 📊 Data Science
+- ☁ Modern Software Engineering
+- 🚀 Automation & DevOps
 
-Rather than focusing only on visuals, the portfolio balances **performance, interaction, accessibility, and clean design** to leave a lasting impression.
-
----
-
-# 🌌 Experience
-
-🚀 Animated Hero Section
-
-🌍 Interactive 3D Technology Globe
-
-⌨️ Dynamic Typewriter Animation
-
-💎 Glassmorphism UI
-
-🎯 Smooth Scroll Animations
-
-🧠 AI Research Showcase
-
-💼 Project Gallery
-
-📱 Fully Responsive Design
-
-⚡ Lightweight & Fast
+I enjoy solving challenging real-world problems while continuously exploring modern technologies.
 
 ---
 
-# 🛠 Built With
+# 🚀 Current Focus
 
-| Frontend | Technologies |
-|----------|--------------|
-| Markup | HTML5 |
-| Styling | CSS3 |
-| Programming | JavaScript |
-| Fonts | Google Fonts |
-| Icons | SVG |
-| Animation | CSS Transitions & Keyframes |
-
----
-
-# 🎨 Design Philosophy
-
-> "Great software deserves great presentation."
-
-Every pixel was intentionally crafted to make technical content feel elegant.
-
-The interface follows a futuristic aesthetic with:
-
-- Dark immersive theme
-- Vibrant neon accents
-- Soft glowing effects
-- Minimalist layout
-- Smooth micro-interactions
-- Premium spacing & typography
+- Deep Learning
+- Large Language Models
+- Computer Vision
+- React & Next.js
+- Three.js
+- Backend Engineering
+- AI-powered Applications
 
 ---
 
-# 🚀 What's Inside?
+# 💻 Tech Stack
 
-```text
-🏠 Hero
-👨 About
-🛠 Skills
-💻 Projects
-📚 Research
-📬 Contact
-```
+## Languages
 
----
-
-# 💡 Highlights
-
-✨ AI & Machine Learning Portfolio
-
-✨ Interactive User Experience
-
-✨ Responsive Across All Devices
-
-✨ Professional Project Showcase
-
-✨ Clean & Maintainable Codebase
-
-✨ Modern UI/UX Principles
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
 
 ---
 
-# 📸 Preview
+## Frontend
 
-> Add your homepage screenshot here.
-
-```md
-![Preview](assets/preview.png)
-```
+React • Next.js • Tailwind CSS • Three.js • HTML • CSS
 
 ---
 
-# ⚙ Run Locally
+## Backend
 
-```bash
-git clone https://github.com/yourusername/portfolio.git
-
-cd portfolio
-
-# Open index.html
-```
+Node.js • Express • PHP • REST API
 
 ---
 
-# 🌟 If You Like It...
+## AI / ML
 
-Leave a ⭐ on the repository.
+PyTorch
 
-It helps others discover my work and motivates me to keep building awesome projects.
+TensorFlow
+
+OpenCV
+
+Scikit-Learn
+
+DINOv2
+
+CLIP
+
+Pandas
+
+NumPy
+
+Jupyter Notebook
+
+Google Colab
 
 ---
 
-<div align="center">
+## Databases
 
-## Thanks for stopping by 👋
+MySQL
 
-*"Building intelligent software, crafting meaningful experiences."*
+PostgreSQL
 
-Made with ❤️ by **Shadman Shakeeb Oankit**
+Oracle
 
-</div>
-````
+---
+
+## Tools
+
+Git
+
+GitHub
+
+Docker
+
+Arduino
+
+N8N
+
+VS Code
+
+Linux
+
+---
+
+# 🌟 Featured Projects
+
+## 🤖 Few-Shot Fine-Grained Classification
+
+Computer Vision research using
+
+- DINOv2
+- CLIP
+- Linear Probing
+
+Achieved:
+
+- **98.85%** on CUB-200
+- **99.97%** on Oxford Flowers
+
+---
+
+## 🌦 Weather Prediction System
+
+Machine Learning model trained on historical climate data for accurate weather forecasting.
+
+---
+
+## 🧠 CNN Image Classification
+
+Custom CNN architecture with:
+
+- Batch Normalization
+- Data Augmentation
+- TensorFlow
+
+---
+
+## 🌐 Modern Portfolio Website
+
+Animated portfolio built with
+
+- React
+- Vite
+- Three.js
+- GLSL
+- Custom UI animations
+
+---
+
+## 🏠 Smart Home IoT
+
+Arduino-based smart automation system featuring
+
+- Rain Detection
+- Servo Motor Control
+- Sensor Integration
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shadman-shakeb&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadman-shakeb&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shadman-shakeb&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+Portfolio
+
+LinkedIn
+
+Email
+
+GitHub
+
+---
+
+<p align="center">
+
+### "Building software that combines intelligence, performance, and beautiful user experiences."
+
+⭐ Thanks for visiting my profile!
+
+</p>
 
